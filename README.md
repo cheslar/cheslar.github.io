@@ -14,9 +14,6 @@
 <h2>
   Links:
 </h2>
-<p>
-  https://github.com/cheslar
-</p>
-<p>
-  https://www.linkedin.com/in/cheslar/
-</p>
+<a href="https://github.com/cheslar">Github</a>
+<a href="https://www.linkedin.com/in/cheslar/">Linkedin</a>
+
