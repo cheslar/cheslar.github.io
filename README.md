@@ -16,7 +16,7 @@
   During my final year of college, I worked with a startup comapany to contribute to their Sports Betting Applicaiton. I developed an advertisement system that allowed the company to seemlessly integrate ads into their app while minimally affecting user experience. Additionally, I designed, prototyped, and implemented multiple user interfaces of the app.
 </p>
 
-<a href="https://www.betchya.io">Official Website</a>
+<a href="https://www.betchya.io" style="text-align: center;">Official Website</a>
 <h3
   style="text-align: center;">
   OSPF Monitoring System:
