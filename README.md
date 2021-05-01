@@ -8,8 +8,8 @@
 <h2>
   Projects:
 </h2>
-<h3>
-  style="text-align: center;"
+<h3
+  style="text-align: center;">
   Betchya:
 </h3>
 <p>
@@ -17,15 +17,15 @@
 </p>
 
 <a href="https://www.betchya.io">Official Website</a>
-<h3>
-  style="text-align: center;"
+<h3
+  style="text-align: center;">
   OSPF Monitoring System:
 </h3>
 <p>
   While interning at Alyrica Networks, a project that I worked on was a script that could be used to monitor the OSPF status of the access points that were a part of Alyica's network. The script logs into the access points via SSH and runs a command that shows all of the connections and information about the connection. From here, the script parses the response and interprets the status of the access point. This script was put into an Icinga server that will run the script for each access point every 2 minutes. If a bad status is received, it will alert out to one of the company's network engineer so they can address the problem.
 </p>
-<h3>
-  style="text-align: center;"
+<h3
+  style="text-align: center;">
   Access Point Monitoring and Repair System:
 </h3>
 <p>
